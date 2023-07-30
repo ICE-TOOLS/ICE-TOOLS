@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning Ruby & Rust and expanding my knowledge of javascript by using stackoverflow!
 
-- 👨‍💻 [my discord](https://discord.gg/kRTw3x6jV8)
+- 👨‍💻 [my discord](https://discord.gg/qgxY4YsGYc)
 
 
 - ⚡ Fun fact I also draw, cook and play games ;)
