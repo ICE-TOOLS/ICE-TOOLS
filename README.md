@@ -1,14 +1,15 @@
-<h1 align="center">Hi 👋, I'm ZERO and i maker of the ICE-TOOLS</h1>
+<h1 align="center">Hi 👋, I'm ZERO and im maker of the ICE-TOOLS</h1>
 <h3 align="center">im Programmer From Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ICE-TOOLS" alt="ICE-TOOLSh" /> </p>
 
-- 🌱 I’m currently learning Ruby & Rust and expanding my knowledge of javascript by using stackoverflow!
-
-- 👨‍💻 [my discord](https://discord.gg/qgxY4YsGYc)
-
-
-- ⚡ Fun fact I also draw, cook and play games ;)
+- 🌱 I`m currently learning Ruby & Rust and expanding my knowledge of javascript by using stackoverflow!
+- 🐲 a fivem Developer
+- 🤖 a Discord Verifyed Bot Owner 
+- 🤖 a Telegram Bot Developer
+- 💖 Making Cheats 
+- 👨‍💻 [my discord](https://discord.gg/aHsbJKTAVE)
+- ⚡ Fun Fact , i Play Wow , Warzone ;)
   
 <h2> 𝙎𝙠𝙞𝙡𝙡𝙨 <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <div align="center">
