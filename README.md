@@ -1,13 +1,17 @@
 <h1 align="center">Hi 👋, I'm ZERO the Make Of ICE-TOOLS</h1>
 <h3 align="center">im Programmer From Iran</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ICE-TOOLS" alt="ICE-TOOLSh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ICE-TOOLS" alt="ICE-TOOLS" /> </p>
 
 - 🌱 I`m currently learning Ruby & Rust and expanding my knowledge of javascript by using stackoverflow!
 - 🐲 a fivem Developer
 - 🤖 a Discord Verifyed Bot Owner 
 - 🤖 a Telegram Bot Developer
-- 💖 Making Cheats 
+- 😶‍🌫️ [SeoPeak](https://seopeak.ir) Co-Owner/Main Dev
+- 🚗 [RoadEmpire](https://roadempire.ir) Co-Owner/Main Dev
+- 📱 [FixTand](https://fixtand.ir) Main Dev
+- 👔 [Stylogen](https://stylogen.nl/) Backend Main Dev
+- 🪳 Creating Cheats...
 - 👨‍💻 [My Discord](https://discord.gg/aHsbJKTAVE)
 - ⚡ Fun Fact , i Play WoW and Warzone ;)
   
