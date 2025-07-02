@@ -2,7 +2,6 @@
 <h3 align="center">im Programmer From Iran</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ICE-TOOLS" alt="ICE-TOOLS" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ICE-TOOLS" alt="ICE-TOOLS" /> </p>
 <p align="left">
   <a href="https://instagram.com/mhm.s.zero" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="ICE-TOOLS" />
