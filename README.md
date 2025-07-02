@@ -4,9 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ICE-TOOLS" alt="ICE-TOOLS" /> </p>
 
 - 🌱 I`m currently learning Ruby & Rust and expanding my knowledge of javascript by using stackoverflow!
-- 🐲 a fivem Developer
-- 🤖 a Discord Verifyed Bot Owner 
-- 🤖 a Telegram Bot Developer
+- 🐲 a fivem/assetto corsa Developer
+- 🎗️ first assetto corsa anticheat maker 
 - 😶‍🌫️ [SeoPeak](https://seopeak.ir) Co-Owner/Main Dev
 - 🚗 [RoadEmpire](https://roadempire.ir) Co-Owner/Main Dev
 - 📱 [FixTand](https://fixtand.ir) Main Dev
@@ -49,4 +48,13 @@
 <code><img src="https://img.shields.io/badge/rust-3776AB.svg?style=for-the-badge&logo=rust&logoColor=white" alt="rust"></code>
 <code><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="linux"></code>
 <code><img src="https://img.shields.io/badge/Kali Linux-FCC624?style=for-the-badge&logo=kalilinux&logoColor=black" alt="kalilinux"></code>
+</div>
+<div align="center">
+</br>
+<code><img src="https://img.shields.io/badge/Svelte-FF3E00?style=flat&logo=svelte&logoColor=white" alt="svelte"></code>
+<code><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="postgres"></code>
+<code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="mysql"></code>
+<code><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="mongodb"></code>
+<code><img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" alt="sqlite"></code>
+<code><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-web-services&logoColor=white" alt="amazonaws"></code>
 </div>
