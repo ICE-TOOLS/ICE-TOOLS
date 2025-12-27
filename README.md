@@ -9,7 +9,7 @@
 </p>
 
 
-- 🌱 I`m currently learning Ruby & Rust and expanding my knowledge of javascript by using stackoverflow!
+- 🌱 I`m currently learning Ruby & Rust and expanding my knowledge of graphql by using ai!
 - 🐲 a fivem/assetto corsa Developer
 - 🎗️ first assetto corsa anticheat maker 
 - 😶‍🌫️ [SeoPeak](https://seopeak.ir) Co-Owner/Main Dev
